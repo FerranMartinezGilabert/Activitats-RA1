@@ -7,13 +7,13 @@ fun main(){
     val scanner : Scanner = Scanner(System.`in`).useLocale(Locale.UK)
     //Demanem les 3 dimensions
     println("Llargada :")
-    var llargada = scanner.nextDouble()
+    var llargada : Double = scanner.nextDouble()
     println("Amplada :")
-    var amplada = scanner.nextDouble()
+    var amplada : Double = scanner.nextDouble()
     println("Alzada :")
-    var alzada = scanner.nextDouble()
+    var alzada : Double = scanner.nextDouble()
     //Ara calculem el volum de l'habitació
-    var volum = llargada * alzada * amplada
+    var volum : Double = llargada * alzada * amplada
     //Mostrem el resultat per pantalla
     println("El volum de l'habitacio es : $volum metres cubics")
 }

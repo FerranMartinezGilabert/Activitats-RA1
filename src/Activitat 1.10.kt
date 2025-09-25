@@ -6,11 +6,11 @@ fun main(){
     val scanner : Scanner = Scanner(System.`in`).useLocale(Locale.UK)
     //Demanem el diametre
     println("El diametre de la pizza es :")
-    var diametre = scanner.nextDouble()
+    var diametre : Double = scanner.nextDouble()
     //Ara calculem el radi de la pizza
-    var radi = (diametre / 2)
+    var radi : Double = (diametre / 2)
     //I per acabar fem la superficie de la pizza a partir del radi
-    var superficie = Math.PI * (radi * radi)
+    var superficie : Double = Math.PI * (radi * radi)
     //Mostrem el resultat per pantalla
     println("La superficie de la pizza es : $superficie")
 }
