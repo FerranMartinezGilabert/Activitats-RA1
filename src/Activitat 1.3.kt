@@ -1,11 +1,15 @@
+//Program : suma de 2 numeros
 import java.util.*
 
 fun main() {
     //Definir l'objecte scanner
     val scanner: Scanner = Scanner(System.`in`).useLocale(Locale.UK)
-    //Definim els numeros a introduir
-    val num = scanner.nextInt()
-    val num2 = scanner.nextInt()
-    // Sumem els numeros introduits
-    println(num + num2)
+    //Demanem els numeros a sumar
+    println("Numero 1 :")
+    var num : Int = scanner.nextInt()
+    println("Numero 2 :")
+    var num2 : Int = scanner.nextInt()
+    // Sumem els numeros introduits i mostrem per pantalla el resultat
+    var result : Int = num + num2
+    println("El resultat es : $result")
 }
