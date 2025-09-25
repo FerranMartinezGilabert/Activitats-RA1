@@ -1,6 +1,6 @@
 //Program : Show decimal number & get the double
 import java.util.*
-
+//Enunciat : Llegeix un valor amb decimals i imprimeix el doble.
 fun main() {
     //Definir l'objecte scanner
     val scanner : Scanner = Scanner(System.`in`).useLocale(Locale.UK)

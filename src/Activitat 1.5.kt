@@ -1,9 +1,10 @@
-//Program : L'usuari escriu 4 enters i s'imprimeix el valor de sumar el primer amb el segon, multiplicat per el mòdul del tercer amb el quart.
+//Program : Suma, multiplicació i modul de enters
 import java.util.*
-
+//Enunciat : L'usuari escriu 4 enters i s'imprimeix el valor de sumar el primer amb el segon, multiplicat
+// per el mòdul del tercer amb el quart.
 fun main() {
     //Definir l'objecte scanner
-    val scanner: Scanner = Scanner(System.`in`).useLocale(Locale.UK)
+    val scanner : Scanner = Scanner(System.`in`).useLocale(Locale.UK)
     //Demanem a l'usuari que ens doni 4 numeros
     println("Numero 1 :")
     var num : Int = scanner.nextInt()
