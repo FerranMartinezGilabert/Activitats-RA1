@@ -14,5 +14,5 @@ fun main(){
     //Ara calculem el preu per persona
     var preuSoparPerPersona : Double = preuSopar / comensals
     //Mostrem el resultat per pantalla
-    println("El preu per persona es : $preuSoparPerPersona")
+    println("El preu per persona es : $preuSoparPerPersona€")
 }

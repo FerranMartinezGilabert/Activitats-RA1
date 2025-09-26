@@ -5,5 +5,6 @@ fun main(){
     //Definim l'objecte Scanner
     val scanner : Scanner = Scanner(System.`in`).useLocale(Locale.UK)
     //Demanem els segons a l'usuari
-    var segons : Int = scanner.nextInt(<60)
+    println("Indiqui un numero en segons :")
+    var segons : Int = scanner.nextInt()
 }
