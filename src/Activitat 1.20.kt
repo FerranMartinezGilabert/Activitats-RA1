@@ -15,6 +15,6 @@ fun main(){
 
     //Imprimim el resultat per pantalla.
     println(comprobant)
-    }
+    }else 
     println(comprobant)
 }
