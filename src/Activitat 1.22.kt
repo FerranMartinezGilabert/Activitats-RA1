@@ -5,10 +5,10 @@ import java.util.Scanner
 fun main(){
     val scan : Scanner = Scanner(System.`in`)
 
-    //Fem un bucle repeat a on declarem les variables.
-    repeat(5){
+    //Declarem les variables
         var comprobant : Boolean = false
         var persones : Array<Int> = Array(5){0}
+        var ultimaPersona : Int = persones.lastIndex
 
         //Omplim l'array de numeros.
         for (persona in 0 until persones.size){
@@ -16,17 +16,12 @@ fun main(){
         }
 
         //Comprobem la condició sigui true.
-        var numeroPersones : Int = 0
-        var personaMesGran : Int = 0
-        while (persones.size > personaMesGran) {
-            if (persones[personaMesGran] > numeroPersones) {
-                numeroPersones = persones[personaMesGran]
-            }
-
-            personaMesGran++
-            comprobant = true
+        for (persona in 0 until persones.size){
+            if (persones[persona] > ultimaPersona){
+                comprobant = true
+            } else comprobant = false
         }
+
         //Imprimim el resultat per pantalla.
         println(comprobant)
-    }
 }
