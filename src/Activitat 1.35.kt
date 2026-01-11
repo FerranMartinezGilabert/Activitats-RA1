@@ -2,6 +2,9 @@ import java.util.Scanner
 
 //Program : Creador de targetes de treball.
 
+//Enunciat : Escriu un programa que imprimeixi targetes de treball. Aquestes han de contenir, nom, cognom i
+// número de despatx de la persona treballadora.
+
 fun main (){
     val scan  = Scanner(System.`in`)
 
@@ -10,7 +13,7 @@ fun main (){
     var cognom : String = scan.nextLine()
     var despatx : Int = scan.nextInt()
 
-    //Imprimim el resultat per pantalla.
+    //Imprimim les credencials del usuari per pantalla.
     println("Empleada: $nom $cognom - Despatx: $despatx")
 
 }

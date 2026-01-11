@@ -4,14 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38ce5b64-494c-4dc0-84b0-d47201d621be" name="Changes" comment="Activitat 16 fins la 30">
-      <change afterPath="$PROJECT_DIR$/src/Activitat 1.31.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 1.32.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 1.33.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 1.34.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 1.35.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 1.36.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 1.37.kt" afterDir="false" />
+    <list default="true" id="38ce5b64-494c-4dc0-84b0-d47201d621be" name="Changes" comment="Activitat 31 a la 37">
+      <change afterPath="$PROJECT_DIR$/src/Activitat 2.1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.19.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.20.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.20.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.21.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.22.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.23.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.23.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.26.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.26.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.27.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.27.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.28.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.28.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.29.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.29.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.30.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.30.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.31.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.31.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.32.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.32.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.33.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.33.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.34.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.34.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.35.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.35.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.36.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.36.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.37.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.37.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,41 +81,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Activitat_1_22Kt.executor": "Run",
-    "Kotlin.Activitat_1_23Kt.executor": "Run",
-    "Kotlin.Activitat_1_24Kt.executor": "Run",
-    "Kotlin.Activitat_1_25Kt.executor": "Run",
-    "Kotlin.Activitat_1_27Kt.executor": "Run",
-    "Kotlin.Activitat_1_29Kt.executor": "Run",
-    "Kotlin.Activitat_1_30Kt.executor": "Run",
-    "Kotlin.Activitat_1_31Kt.executor": "Run",
-    "Kotlin.Activitat_1_32Kt.executor": "Run",
-    "Kotlin.Activitat_1_33Kt.executor": "Run",
-    "Kotlin.Activitat_1_34Kt.executor": "Run",
-    "Kotlin.Activitat_1_35Kt.executor": "Run",
-    "Kotlin.Activitat_1_36Kt.executor": "Run",
-    "Kotlin.Activitat_1_37Kt.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Activitat_1_22Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_23Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_24Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_25Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_27Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_29Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_30Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_31Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_32Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_33Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_34Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_35Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_36Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_37Kt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.Activitat_1_22Kt">
+    <configuration name="Activitat_1_22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activitat_1_22Kt" />
+      <module name="Activitats-RA1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Activitat_1_31Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activitat_1_31Kt" />
+      <module name="Activitats-RA1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Activitat_1_22Kt" />
+        <item itemvalue="Kotlin.Activitat_1_31Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,7 +158,8 @@
       <workItem from="1767776636309" duration="691000" />
       <workItem from="1767777361987" duration="101000" />
       <workItem from="1767777471591" duration="19656000" />
-      <workItem from="1767878340462" duration="9236000" />
+      <workItem from="1767878340462" duration="9306000" />
+      <workItem from="1768129207946" duration="5713000" />
     </task>
     <task id="LOCAL-00001" summary="Activitat 16 fins la 30">
       <option name="closed" value="true" />
@@ -114,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767801234181</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Activitat 31 a la 37">
+      <option name="closed" value="true" />
+      <created>1768125274998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768125274998</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +185,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Activitat 16 fins la 30" />
-    <option name="LAST_COMMIT_MESSAGE" value="Activitat 16 fins la 30" />
+    <MESSAGE value="Activitat 31 a la 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activitat 31 a la 37" />
   </component>
 </project>

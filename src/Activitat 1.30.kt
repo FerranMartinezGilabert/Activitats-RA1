@@ -2,6 +2,8 @@ import java.util.Scanner
 
 //Program : Quant de temps?
 
+//Enunciat : Fes un programa que calculi quants minuts, hores i segons hi ha en un número de segons donats.
+
 fun main(){
     val scan : Scanner = Scanner(System.`in`)
 

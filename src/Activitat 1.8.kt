@@ -1,13 +1,20 @@
-//Program : Show decimal number & get the double
+//Program : Show decimal number & get the double.
+
 import java.util.*
+
 //Enunciat : Llegeix un valor amb decimals i imprimeix el doble.
+
 fun main() {
+
     //Definir l'objecte scanner
     val scanner : Scanner = Scanner(System.`in`).useLocale(Locale.UK)
-//Demanem el nombre decimal i calculem el doble
-    println("Introdueix un nombre decimal :")
+
+    //Demanem el nombre decimal.
     var nombreDecimal : Double = scanner.nextDouble()
+
+    //Calculem el doble.
     var elDobleDelNombre : Double = nombreDecimal + nombreDecimal
-//Mostrem el resultat a pantalla
-    println("El doble del nombre decimal es : $elDobleDelNombre")
+
+    //Mostrem el resultat a pantalla
+    println(elDobleDelNombre)
 }

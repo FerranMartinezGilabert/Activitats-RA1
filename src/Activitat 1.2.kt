@@ -1,13 +1,20 @@
 //Program : Doblant numeros
+
 import java.util.*
+
 // Enunciat : Escriu un programa que llegeixi un número per entrada i imprimeixi el doble del seu valor.
+
 fun main() {
+
     //Definir l'objecte scanner
     val scanner : Scanner = Scanner(System.`in`).useLocale(Locale.UK)
-    //Demanem els numeros a doblar
-    println("Numero :")
+
+    //Demanem un numero.
     var num : Int = scanner.nextInt()
-    // Sumem el numero introduit i mostrem per pantalla el resultat
+
+    // El sumem per si mateix, així obtenim el doble.
     var result : Int = num + num
-    println("El resultat es : $result")
+
+    // Imprimim el resultat per pantalla.
+    println(result)
 }

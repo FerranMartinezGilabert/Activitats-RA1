@@ -1,4 +1,7 @@
 //Program: Nombres decimals iguals.
+
+//Enunciat: Fes un programa que rebi dos nombres decimals i torni si són iguals o no.
+
 import java.util.Scanner
 
 fun main(){

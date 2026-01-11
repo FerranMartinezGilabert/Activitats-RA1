@@ -2,6 +2,8 @@ import java.util.Scanner
 
 //Program : Construeix la història
 
+//Enunciat : Escriu un programa que llegeixi 3 frases diferents per terminal i en faci 1 història.
+
 fun main() {
     val scan: Scanner = Scanner(System.`in`)
 
@@ -10,12 +12,12 @@ fun main() {
     var fraseCompleta: String = ""
     var resultat: String = ""
 
-    // Contruïm la frase.
+    // Contruïm la frase amb un bucle for que vagi llegint frases que fica l'usuari.
     for (i in 0 until llistaFrases.size) {
         llistaFrases[i] = scan.nextLine()
     }
 
-    // La guardem a un String i fiquem els espais.
+    // Guardem les 3 frases a un String i la separem amb espais.
     for (i in 0 until llistaFrases.size) {
         fraseCompleta += llistaFrases[i]
         if (i < llistaFrases.size - 1) {
@@ -23,7 +25,8 @@ fun main() {
         }
     }
 
-    // Mirem que tingui caràcters especials i en cas de tindre els substituïm a una nova variable resultat.
+    // Mirem que tingui caràcters especials d'operacions i en cas de tindre ho substituïm a una nova variable
+    // anomenada resultat.
     for (caracter in fraseCompleta) {
         when (caracter) {
             '%' -> resultat += "mòdul"
@@ -31,7 +34,7 @@ fun main() {
             '+' -> resultat += "suma"
             '*' -> resultat += "factorització"
             '/' -> resultat += "divisió"
-            else -> resultat += caracter
+            else -> resultat += caracter //Sinò hi ha cap caracter especial, el deixem com estaba.
         }
     }
 

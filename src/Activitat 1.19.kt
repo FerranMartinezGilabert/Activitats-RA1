@@ -1,4 +1,6 @@
 //Program: Programa adolescent.
+
+//Enunciat: Fes un programa que rebi un valor booleà i et retorni el valor contrari.
 import java.util.Scanner
 
 fun main (){

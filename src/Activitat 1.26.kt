@@ -1,6 +1,8 @@
 import java.util.Scanner
 
-//Program: Fes-me mayuscula
+//Program: Fes-me minúscula.
+
+//Enunciat : Fes un programa que rep un caràcter de l'abecedari en majúscula i el faci minúscula.
 
 fun main(){
     val scan : Scanner = Scanner(System.`in`)

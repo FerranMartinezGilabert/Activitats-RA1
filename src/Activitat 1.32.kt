@@ -2,6 +2,9 @@ import java.util.Scanner
 
 //Program : Calcula el capital
 
+//Enunciat: Fes un programa que demani un capital, i calculi quin capital es generarà passat cert temps segons certs
+// interessos (entre 0% i 100%).
+
 fun main (){
     val scan  = Scanner(System.`in`)
 
@@ -11,7 +14,7 @@ fun main (){
     var percentatge : Int = scan.nextInt()
     var capitalFinal : Int = 0
 
-    //Calculem el capital segons els segons que passen i el percentatge.
+    //Calculem el capital en base als segons que passen i el percentatge.
     for (pujada in 0 until segons) {
 
         capitalFinal = capitalInicial + pujada + (10 * percentatge)

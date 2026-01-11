@@ -2,6 +2,9 @@ import java.util.Scanner
 
 //Program: És l'edat legal
 
+//Enunciat: L'usuari escriu un enter amb la seva edat i s'imprimeix true si és major d'edat, i false
+// en qualsevol altre cas.
+
 fun main () {
     val scan : Scanner = Scanner(System.`in`)
 

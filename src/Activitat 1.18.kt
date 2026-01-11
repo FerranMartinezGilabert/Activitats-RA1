@@ -2,6 +2,9 @@ import java.util.Scanner
 
 //Program: És major que.
 
+//Enunciat : Fes un programa que rebi dos nombres enters i imprimeixi true si el primer és major que el segon,
+// false en cap altre cas.
+
 fun main (){
     val scan : Scanner = Scanner(System.`in`)
 
