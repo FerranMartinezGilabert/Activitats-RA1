@@ -1,3 +1,5 @@
+//Punt 1: - Exercicis de tipus de dades, transformacions i operacions.
+
 //Program : Hello world!
 
 import java.util.*
