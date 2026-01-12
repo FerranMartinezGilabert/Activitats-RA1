@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38ce5b64-494c-4dc0-84b0-d47201d621be" name="Changes" comment="Exercicis 2.1 fins 2.4">
-      <change afterPath="$PROJECT_DIR$/src/Activitat 2.6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 2.7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 2.8.kt" afterDir="false" />
+    <list default="true" id="38ce5b64-494c-4dc0-84b0-d47201d621be" name="Changes" comment="Activitats 2.5 fins 2.7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Activitat 1.15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.15.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Activitat 2.5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 2.5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 2.8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 2.8.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,49 +44,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Activitat_1_15Kt.executor": "Run",
-    "Kotlin.Activitat_1_22Kt.executor": "Run",
-    "Kotlin.Activitat_1_23Kt.executor": "Run",
-    "Kotlin.Activitat_1_24Kt.executor": "Run",
-    "Kotlin.Activitat_1_25Kt.executor": "Run",
-    "Kotlin.Activitat_1_27Kt.executor": "Run",
-    "Kotlin.Activitat_1_29Kt.executor": "Run",
-    "Kotlin.Activitat_1_30Kt.executor": "Run",
-    "Kotlin.Activitat_1_31Kt.executor": "Run",
-    "Kotlin.Activitat_1_32Kt.executor": "Run",
-    "Kotlin.Activitat_1_33Kt.executor": "Run",
-    "Kotlin.Activitat_1_34Kt.executor": "Run",
-    "Kotlin.Activitat_1_35Kt.executor": "Run",
-    "Kotlin.Activitat_1_36Kt.executor": "Run",
-    "Kotlin.Activitat_1_37Kt.executor": "Run",
-    "Kotlin.Activitat_2_1Kt.executor": "Run",
-    "Kotlin.Activitat_2_2Kt.executor": "Run",
-    "Kotlin.Activitat_2_3Kt.executor": "Run",
-    "Kotlin.Activitat_2_4Kt.executor": "Run",
-    "Kotlin.Activitat_2_5Kt.executor": "Run",
-    "Kotlin.Activitat_2_7Kt.executor": "Run",
-    "Kotlin.Activitat_2_8Kt.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Activitat_1_15Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_22Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_23Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_24Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_25Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_27Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_29Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_30Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_31Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_32Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_33Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_34Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_35Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_36Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_1_37Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_2_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_2_2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_2_3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_2_4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_2_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_2_7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Activitat_2_8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Activitat_1_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Activitat_1_15Kt" />
@@ -159,7 +155,8 @@
       <workItem from="1767777471591" duration="19656000" />
       <workItem from="1767878340462" duration="9306000" />
       <workItem from="1768129207946" duration="11010000" />
-      <workItem from="1768230802180" duration="7506000" />
+      <workItem from="1768230802180" duration="7561000" />
+      <workItem from="1768241844737" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="Activitat 16 fins la 30">
       <option name="closed" value="true" />
@@ -193,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768145173185</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Activitats 2.5 fins 2.7">
+      <option name="closed" value="true" />
+      <created>1768241741811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768241741811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +209,7 @@
     <MESSAGE value="Activitat 31 a la 37" />
     <MESSAGE value="Enunciats ficats en totes les activitats, mes claretat a les dades i descripcions, alguna modificació en algún codi." />
     <MESSAGE value="Exercicis 2.1 fins 2.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicis 2.1 fins 2.4" />
+    <MESSAGE value="Activitats 2.5 fins 2.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activitats 2.5 fins 2.7" />
   </component>
 </project>
