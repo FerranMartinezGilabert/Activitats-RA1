@@ -13,19 +13,13 @@ fun main(){
     println("Indiqui un numero en segons :")
     var segons : Int = scanner.nextInt()
 
-    //Declarem un contador de temps.
+    //Declarem la variable temps a 0.
     var temps : Int = 0
 
-    //Creem un bucle for a on sumem 1 al contador.
-    for (i in 0..segons){
-        temps++
-    }
-
-    //Si el contador ha arribat a 60 el tornem a posar a 0.
-    if (temps == 60){
-        temps = 0
+    //Si el segon afegit no arriba a 60 sumem 1 al temps, sinó el temps son 0 segons.
+    if (segons + 1 > 60){
+        temps += segons + 1
+        //Imprimim el resultat.
         println(temps)
-        
-    //Sino imprimim el temps.
     }else println(temps)
 }

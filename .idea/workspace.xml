@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38ce5b64-494c-4dc0-84b0-d47201d621be" name="Changes" comment="Enunciats ficats en totes les activitats, mes claretat a les dades i descripcions, alguna modificació en algún codi.">
-      <change afterPath="$PROJECT_DIR$/src/Activitat 2.2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 2.3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 2.4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activitat 2.5.kt" afterDir="false" />
+    <list default="true" id="38ce5b64-494c-4dc0-84b0-d47201d621be" name="Changes" comment="Exercicis 2.1 fins 2.4">
+      <change afterPath="$PROJECT_DIR$/src/Activitat 2.6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activitat 2.7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activitat 2.8.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Activitat 1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Activitat 2.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 2.1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 1.15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 1.15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Activitat 2.5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Activitat 2.5.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Activitat_1_15Kt.executor": "Run",
     "Kotlin.Activitat_1_22Kt.executor": "Run",
     "Kotlin.Activitat_1_23Kt.executor": "Run",
     "Kotlin.Activitat_1_24Kt.executor": "Run",
@@ -69,6 +69,9 @@
     "Kotlin.Activitat_2_2Kt.executor": "Run",
     "Kotlin.Activitat_2_3Kt.executor": "Run",
     "Kotlin.Activitat_2_4Kt.executor": "Run",
+    "Kotlin.Activitat_2_5Kt.executor": "Run",
+    "Kotlin.Activitat_2_7Kt.executor": "Run",
+    "Kotlin.Activitat_2_8Kt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -88,9 +91,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Activitat_2_4Kt">
-    <configuration name="Activitat_1_22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Activitat_1_22Kt" />
+  <component name="RunManager">
+    <configuration name="Activitat_1_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activitat_1_15Kt" />
       <module name="Activitats-RA1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Activitat_1_15Kt" />
         <item itemvalue="Kotlin.Activitat_2_4Kt" />
         <item itemvalue="Kotlin.Activitat_2_3Kt" />
         <item itemvalue="Kotlin.Activitat_2_1Kt" />
         <item itemvalue="Kotlin.Activitat_2_2Kt" />
-        <item itemvalue="Kotlin.Activitat_1_22Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +158,8 @@
       <workItem from="1767777361987" duration="101000" />
       <workItem from="1767777471591" duration="19656000" />
       <workItem from="1767878340462" duration="9306000" />
-      <workItem from="1768129207946" duration="10978000" />
+      <workItem from="1768129207946" duration="11010000" />
+      <workItem from="1768230802180" duration="7506000" />
     </task>
     <task id="LOCAL-00001" summary="Activitat 16 fins la 30">
       <option name="closed" value="true" />
@@ -181,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768138356391</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercicis 2.1 fins 2.4">
+      <option name="closed" value="true" />
+      <created>1768145173185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768145173185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +203,7 @@
     <MESSAGE value="Activitat 16 fins la 30" />
     <MESSAGE value="Activitat 31 a la 37" />
     <MESSAGE value="Enunciats ficats en totes les activitats, mes claretat a les dades i descripcions, alguna modificació en algún codi." />
-    <option name="LAST_COMMIT_MESSAGE" value="Enunciats ficats en totes les activitats, mes claretat a les dades i descripcions, alguna modificació en algún codi." />
+    <MESSAGE value="Exercicis 2.1 fins 2.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicis 2.1 fins 2.4" />
   </component>
 </project>
