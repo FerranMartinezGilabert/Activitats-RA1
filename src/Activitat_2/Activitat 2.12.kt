@@ -11,5 +11,10 @@ fun main(){
     var mes : Int = scanner.nextInt()
     var any : Int = scanner.nextInt()
 
+    var a = (14 - mes) / 12
+    var y = (any - dia)
+    var m = (mes + (12 * a) - 2)
+
+    var d = (dia + y + (y / 4) - (y / 100) + (y / 400) + (31 * m) / 12) % 7
 
 }
